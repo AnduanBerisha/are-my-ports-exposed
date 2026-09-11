@@ -1,6 +1,7 @@
 # Binaries
 /ampe
 /are-my-ports-exposed
+ampe-*
 *.exe
 *.exe~
 *.dll
@@ -10,4 +11,3 @@
 # Test artifacts
 *.test
 *.out
-EOF
