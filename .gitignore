@@ -1,0 +1,13 @@
+# Binaries
+/ampe
+/are-my-ports-exposed
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test artifacts
+*.test
+*.out
+EOF
